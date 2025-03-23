@@ -201,6 +201,78 @@ PremiumCustomer: برای مشتری‌های پرمیوم.
 
 
 
+در نهایت هم طبق خواست پروژه خروجی من به این شکل است :
+
+
+
+
+Processing payments for regular customer:
+
+
+Paid 100.0 using Credit Card.
+
+
+Paid 50.0 using PayPal.
+
+
+
+
+Processing payments for premium customer:
+
+
+Paid 200.0 using Bitcoin.
+
+
+Paid 150.0 using Credit Card.
+
+
+
+
+Regular Customer Information:
+
+
+Regular Customer: Fateme
+
+
+
+
+Payment History for Regular Customer:
+
+
+Payment history for Fateme:
+
+
+Payment: 100.0 - Credit Card - Holder: Fateme Sedigh, Number: 1234-5678-9012-3456
+
+
+Payment: 50.0 - PayPal - Email: fatemeh@gmail.com
+
+
+
+
+Premium Customer Information:
+
+
+Premium Customer: Negin
+
+
+
+
+Payment History for Premium Customer:
+
+
+Payment history for Negin:
+
+
+Payment: 200.0 - Bitcoin - Wallet Address: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
+
+
+Payment: 150.0 - Credit Card - Holder: Fateme Sedigh, Number: 1234-5678-9012-3456
+
+
+
+
+
 
 خب امیدوارم که توضیحات مفید و به اندازه ی کافی بوده باشه 
 
